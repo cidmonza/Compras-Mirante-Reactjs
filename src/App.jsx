@@ -117,7 +117,7 @@ const emojiMap = {
   "Cebola": "🧅",
   "Ovo de Codorna": "🥚",
   "Pao Cervejinha": "🥖🍺",
-  "Batata": "🥔",
+  "Batata": "🍟",
   "Azeite": "🫒🧴",
   "Shoyu": "🍱🧂",
   "Molho de Tomate": "🍅🧂",
